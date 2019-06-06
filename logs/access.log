@@ -1,0 +1,2 @@
+::1 - - [06/Jun/2019:09:33:22 +0000] "GET /api/blog/list?isadmin=1 HTTP/1.0" 200 846 "http://localhost:8080/admin.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+::ffff:127.0.0.1 - - [06/Jun/2019:09:33:25 +0000] "GET /api/blog/detail?id=8 HTTP/1.0" 200 154 "http://localhost:8080/detail.html?id=8" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
